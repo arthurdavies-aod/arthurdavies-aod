@@ -11,7 +11,7 @@
 
 - 🌱 I'm also **Building a small home lab for security testing**
 
-- 👯 I'm practicing with **TryHackMe, HackTheBox, and Wireshark**
+- 👯 I'm practicing with **TryHackMe, HackTheBox, and Linux**
 
 - 🤝 I’m preparing for **CompTIA Security+ (Beginner Level)**
 
