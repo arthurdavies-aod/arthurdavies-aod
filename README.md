@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arthur Davies</h1>
 <h3 align="center">Aspiring Cybersecurity Analyst | Tech Enthusiast</h3>
 
+## 🎓 Certificates
+- [Pre-Security Path – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HZI41PIBUC.pdf)
+- More certificates coming soon...
+- 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurdavies-aod&label=Profile%20views&color=0e75b6&style=flat" alt="arthurdavies-aod" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthurdavies-aod" alt="arthurdavies-aod" /></a> </p>
