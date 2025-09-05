@@ -2,6 +2,8 @@
 <h3 align="center">Aspiring Cybersecurity Analyst | Tech Enthusiast</h3>
 
 ## 🎓 Certificates
+[![OCI Certified](https://img.shields.io/badge/OCI-AI%20Foundation%20Associate-red?logo=oracle)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=097DBDECFB34904B5A6161B0D0F300536DCCCECA1649345825E3318108C266A7)
+-[OCI 2025 Certified AI Foundation Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=097DBDECFB34904B5A6161B0D0F300536DCCCECA1649345825E3318108C266A7)
 - [Pre-Security Path – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HZI41PIBUC.pdf)
 - More certificates coming soon...
 - 
