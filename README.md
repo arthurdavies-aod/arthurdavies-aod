@@ -2,6 +2,7 @@
 <h3 align="center">Aspiring Cybersecurity Analyst | Tech Enthusiast</h3>
 
 ## 🎓 Certificates
+- [Cybersecurity 101 Path (TryHackMe)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JT2YRI79N4.pdf)
 - [OCI 2025 Certified AI Foundation Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7014609&trackId=OCI25AICFA&key=69253da17fddb0dbf475e2eaf1a777fa061d4cf4)
 - [Pre-Security Path – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HZI41PIBUC.pdf)
 - More certificates coming soon...
